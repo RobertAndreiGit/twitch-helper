@@ -1,0 +1,32 @@
+.app {
+  margin: auto;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.section {
+  display: inline-block;
+  max-width: 480px;
+  margin: 20px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.player-wrapper {
+  width: 480px;
+  height: 270px;
+}
+
+.react-player {
+  margin-bottom: 10px;
+  background: rgba(0, 0, 0, .1);
+}
+
+.faded {
+  color: rgba(0, 0, 0, .5);
+}
+
+.footer {
+  margin: 20px;
+}
