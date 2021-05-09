@@ -8,7 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.15.2",
     "express-session": "^1.15.2",
-    "handlebars": "^4.0.6",
+    "handlebars": "^4.7.7",
     "passport": "^0.3.2",
     "passport-oauth": "^1.0.0",
     "request": "^2.81.0"
